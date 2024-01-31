@@ -18,11 +18,14 @@ This project aims to create a task management system that intelligently assigns 
 - Run the task management script.
 - Choose option 1 to add a task.
 - Enter the task description when prompted.
+
 **Removing a Task**:
 - Choose option 2 to remove a task.
 - Enter the task description when prompted.
+
 **Listing Tasks**:
 - Choose option 3 to list all tasks in priority order (high to low).
+
 **Exiting the System**:
 - Choose option 4 to exit the system.
 
